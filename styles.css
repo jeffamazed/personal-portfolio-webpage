@@ -169,7 +169,7 @@ img {
 }
 
 .project-name {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   background-color: #333333;
   padding: 1.5rem 0 1.7rem;
   border-radius: 0 0 3px 3px;
@@ -224,6 +224,7 @@ img {
   font-style: italic;
   margin-bottom: 7rem;
   text-shadow: 2px 2px 5px #8b3030;
+  text-align: center;
 }
 
 .my-contact-container {
